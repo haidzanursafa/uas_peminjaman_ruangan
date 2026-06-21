@@ -1,7 +1,7 @@
 import { User, Room, Booking } from "@/types";
 
 export const DEFAULT_USERS: User[] = [
-  { id: "u1", username: "admin", password: "admin123", role: "admin" },
+  { id: "user1", username: "admin", password: "admin123", role: "admin" },
   { id: "u2", username: "pemohon", password: "pemohon123", role: "pemohon" },
 ];
 
